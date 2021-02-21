@@ -1,0 +1,1652 @@
+﻿[
+  {
+    "Id": 1,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Szalik",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 2,
+        "Artykul": "Buty",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 3,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 4,
+        "Artykul": "Miara Zwijana",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 5,
+        "Artykul": "Dron",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 6,
+        "Artykul": "Ramki do zdjęć",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 7,
+        "Artykul": "Budzik",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 8,
+        "Artykul": "Dron",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 9,
+        "Artykul": "Monitor",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 10,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 9
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Ramki do Zdjęć",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 2,
+        "Artykul": "Telefon",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 3,
+        "Artykul": "Czapka",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 4,
+        "Artykul": "Ramki do Zdjęć",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 5,
+        "Artykul": "Album",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 6,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 7,
+        "Artykul": "Maseczki",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 8,
+        "Artykul": "Kredki",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 9,
+        "Artykul": "Laptop",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 10,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 4
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Buty",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 2,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 3,
+        "Artykul": "Kredki",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 4,
+        "Artykul": "Etui na Telefon",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 5,
+        "Artykul": "Monitor",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 6,
+        "Artykul": "Budzik",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 7,
+        "Artykul": "Kredki",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 8,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 9,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 10,
+        "Artykul": "Album",
+        "Lokalizacja": 5
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Okulary",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 2,
+        "Artykul": "Buty",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 3,
+        "Artykul": "Dron",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 4,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 5,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 6,
+        "Artykul": "Buty",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 7,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 8,
+        "Artykul": "Czapka",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 9,
+        "Artykul": "Monitor",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 10,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 4
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Monitor",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 2,
+        "Artykul": "SSD",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 3,
+        "Artykul": "Buty",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 4,
+        "Artykul": "Buty",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 5,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 6,
+        "Artykul": "Zabawka",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 7,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 8,
+        "Artykul": "Okulary",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 9,
+        "Artykul": "Monitor",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 10,
+        "Artykul": "Album",
+        "Lokalizacja": 2
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Szalik",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 2,
+        "Artykul": "Kredki",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 3,
+        "Artykul": "Monitor",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 4,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 5,
+        "Artykul": "Kabel",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 6,
+        "Artykul": "Koszula",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 7,
+        "Artykul": "Szalik",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 8,
+        "Artykul": "Kredki",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 9,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 10,
+        "Artykul": "Okulary",
+        "Lokalizacja": 2
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 2,
+        "Artykul": "Zabawka",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 3,
+        "Artykul": "Okulary",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 4,
+        "Artykul": "Monitor",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 5,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 6,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 7,
+        "Artykul": "Buty",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 8,
+        "Artykul": "Kabel",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 9,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 10,
+        "Artykul": "Album",
+        "Lokalizacja": 9
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Zabawka",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 2,
+        "Artykul": "Okulary",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 3,
+        "Artykul": "Monitor",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 4,
+        "Artykul": "Monitor",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 5,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 6,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 7,
+        "Artykul": "Etui na Telefon",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 8,
+        "Artykul": "Album",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 9,
+        "Artykul": "Etui na Telefon",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 10,
+        "Artykul": "Miara Zwijana",
+        "Lokalizacja": 11
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 2,
+        "Artykul": "Buty",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 3,
+        "Artykul": "SSD",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 4,
+        "Artykul": "Koszula",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 5,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 6,
+        "Artykul": "Budzik",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 7,
+        "Artykul": "Kabel",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 8,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 9,
+        "Artykul": "Ramki do Zdjęć",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 10,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 12
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Monitor",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 2,
+        "Artykul": "Monitor",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 3,
+        "Artykul": "Monitor",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 4,
+        "Artykul": "Toster",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 5,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 6,
+        "Artykul": "Okulary",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 7,
+        "Artykul": "Buty",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 8,
+        "Artykul": "Kabel",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 9,
+        "Artykul": "Buty",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 10,
+        "Artykul": "Szalik",
+        "Lokalizacja": 2
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Ramki do Zdjęć",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 2,
+        "Artykul": "Dron",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 3,
+        "Artykul": "Telefon",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 4,
+        "Artykul": "Zabawka",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 5,
+        "Artykul": "SSD",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 6,
+        "Artykul": "Szalik",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 7,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 8,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 9,
+        "Artykul": "SSD",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 10,
+        "Artykul": "Album",
+        "Lokalizacja": 7
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Etui na Telefon",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 2,
+        "Artykul": "Ramki do Zdjęć",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 3,
+        "Artykul": "Szalik",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 4,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 5,
+        "Artykul": "Budzik",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 6,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 7,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 8,
+        "Artykul": "Zabawka",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 9,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 10,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 5
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Laptop",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 2,
+        "Artykul": "SSD",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 3,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 4,
+        "Artykul": "Szalik",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 5,
+        "Artykul": "Monitor",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 6,
+        "Artykul": "Szalik",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 7,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 8,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 9,
+        "Artykul": "Maseczki",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 10,
+        "Artykul": "Ramki do Zdjęć",
+        "Lokalizacja": 9
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Szalik",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 2,
+        "Artykul": "Kredki",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 3,
+        "Artykul": "SSD",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 4,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 5,
+        "Artykul": "Toster",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 6,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 7,
+        "Artykul": "Telefon",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 8,
+        "Artykul": "Kurtka",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 9,
+        "Artykul": "Laptop",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 10,
+        "Artykul": "Buty",
+        "Lokalizacja": 6
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Kurtka",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 2,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 3,
+        "Artykul": "Toster",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 4,
+        "Artykul": "Zabawka",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 5,
+        "Artykul": "Buty",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 6,
+        "Artykul": "Kredki",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 7,
+        "Artykul": "Toster",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 8,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 9,
+        "Artykul": "Toster",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 10,
+        "Artykul": "Kabel",
+        "Lokalizacja": 9
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Okulary",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 2,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 3,
+        "Artykul": "Kredki",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 4,
+        "Artykul": "Szalik",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 5,
+        "Artykul": "Czapka",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 6,
+        "Artykul": "Budzkik",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 7,
+        "Artykul": "Budzik",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 8,
+        "Artykul": "Monitor",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 9,
+        "Artykul": "Telefon",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 10,
+        "Artykul": "Laptop",
+        "Lokalizacja": 11
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Laptop",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 2,
+        "Artykul": "Etui na Telefon",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 3,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 4,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 5,
+        "Artykul": "Monitor",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 6,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 7,
+        "Artykul": "Monitor",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 8,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 9,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 10,
+        "Artykul": "Budzik",
+        "Lokalizacja": 7
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Monitor",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 2,
+        "Artykul": "Telefon",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 3,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 4,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 5,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 6,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 7,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 8,
+        "Artykul": "Kredki",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 9,
+        "Artykul": "Dron",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 10,
+        "Artykul": "Kredki",
+        "Lokalizacja": 10
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 2,
+        "Artykul": "Monitor",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 3,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 4,
+        "Artykul": "Buty",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 5,
+        "Artykul": "Zabawka",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 6,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 7,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 8,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 9,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 10,
+        "Artykul": "Etui na Telefon",
+        "Lokalizacja": 3
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Szalik",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 2,
+        "Artykul": "Toster",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 3,
+        "Artykul": "Album",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 4,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 5,
+        "Artykul": "Ramki do Zdjęć",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 6,
+        "Artykul": "Budzik",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 7,
+        "Artykul": "Album",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 8,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 9,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 10,
+        "Artykul": "SSD",
+        "Lokalizacja": 3
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 2,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 3,
+        "Artykul": "Buty",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 4,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 5,
+        "Artykul": "Budzik",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 6,
+        "Artykul": "Miara Zwijana",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 7,
+        "Artykul": "Buty",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 8,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 9,
+        "Artykul": "Ramki do Zdjęć",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 10,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 2
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Szalik",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 2,
+        "Artykul": "Kurtka",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 3,
+        "Artykul": "Monitor",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 4,
+        "Artykul": "Album",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 5,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 6,
+        "Artykul": "Monitor",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 7,
+        "Artykul": "Monitor",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 8,
+        "Artykul": "Budzik",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 9,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 10,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 11
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 2,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 3,
+        "Artykul": "Laptop",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 4,
+        "Artykul": "Kredki",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 5,
+        "Artykul": "Miara Zwijana",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 6,
+        "Artykul": "Klawiatura",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 7,
+        "Artykul": "Czapka",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 8,
+        "Artykul": "SSD",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 9,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 10,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 4
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Monitor",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 2,
+        "Artykul": "Okulary",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 3,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 4,
+        "Artykul": "Budzik",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 5,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 6,
+        "Artykul": "Toster",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 7,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 8,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 9,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 10,
+        "Artykul": "SSD",
+        "Lokalizacja": 3
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "SSD",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 2,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 3,
+        "Artykul": "Toster",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 4,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 5,
+        "Artykul": "Monitor",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 6,
+        "Artykul": "Toster",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 7,
+        "Artykul": "SSD",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 8,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 9,
+        "Artykul": "Kosmetyki",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 10,
+        "Artykul": "Miara Zwijana",
+        "Lokalizacja": 8
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 2,
+        "Artykul": "PenDrive",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 3,
+        "Artykul": "Telefon",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 4,
+        "Artykul": "Maseczki",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 5,
+        "Artykul": "Budzik",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 6,
+        "Artykul": "Kabel",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 7,
+        "Artykul": "Czapka",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 8,
+        "Artykul": "Kurtka",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 9,
+        "Artykul": "Monitor",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 10,
+        "Artykul": "Czapka",
+        "Lokalizacja": 4
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Budzik",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 2,
+        "Artykul": "Ramki do Zdjęć",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 3,
+        "Artykul": "Album",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 4,
+        "Artykul": "Buty",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 5,
+        "Artykul": "Buty",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 6,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 7,
+        "Artykul": "Maseczki",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 8,
+        "Artykul": "Miara Zwijana",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 9,
+        "Artykul": "Koszula",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 10,
+        "Artykul": "Zabawka",
+        "Lokalizacja": 1
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Karta Graficzna",
+        "Lokalizacja": 3
+      },
+      {
+        "Id": 2,
+        "Artykul": "Album",
+        "Lokalizacja": 9
+      },
+      {
+        "Id": 3,
+        "Artykul": "Maseczki",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 4,
+        "Artykul": "Czapka",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 5,
+        "Artykul": "Kurtka",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 6,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 7,
+        "Artykul": "Monitor",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 8,
+        "Artykul": "Miara Zwijana",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 9,
+        "Artykul": "Dron",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 10,
+        "Artykul": "Okulary",
+        "Lokalizacja": 4
+      }
+    ]
+  },
+  {
+    "Id": 29,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Dron",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 2,
+        "Artykul": "Maseczki",
+        "Lokalizacja": 7
+      },
+      {
+        "Id": 3,
+        "Artykul": "Toster",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 4,
+        "Artykul": "Laptop",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 5,
+        "Artykul": "Maseczki",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 6,
+        "Artykul": "Monitor",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 7,
+        "Artykul": "Zabawki",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 8,
+        "Artykul": "Budzik",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 9,
+        "Artykul": "Czapka",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 10,
+        "Artykul": "Kredki",
+        "Lokalizacja": 9
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "ListaPaczekWzestawie": [
+      {
+        "Id": 1,
+        "Artykul": "Miara Zwijana",
+        "Lokalizacja": 1
+      },
+      {
+        "Id": 2,
+        "Artykul": "Słuchawki",
+        "Lokalizacja": 8
+      },
+      {
+        "Id": 3,
+        "Artykul": "Zeszyty",
+        "Lokalizacja": 2
+      },
+      {
+        "Id": 4,
+        "Artykul": "Budzik",
+        "Lokalizacja": 12
+      },
+      {
+        "Id": 5,
+        "Artykul": "Płyta Winylowa",
+        "Lokalizacja": 6
+      },
+      {
+        "Id": 6,
+        "Artykul": "Czapka",
+        "Lokalizacja": 5
+      },
+      {
+        "Id": 7,
+        "Artykul": "Kurtka",
+        "Lokalizacja": 4
+      },
+      {
+        "Id": 8,
+        "Artykul": "Okulary",
+        "Lokalizacja": 11
+      },
+      {
+        "Id": 9,
+        "Artykul": "Radio Retro",
+        "Lokalizacja": 10
+      },
+      {
+        "Id": 10,
+        "Artykul": "Okulary",
+        "Lokalizacja": 3
+      }
+    ]
+  }
+]
